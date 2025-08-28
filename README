@@ -1,0 +1,7 @@
+Pull machineCode for desired program into sim environment, rename into mach_code.txt (or whatever stated on the instr_ROM)
+Pull PC_LUT for desired program into sim environment, might need to rename file into just PC_LUT.sv
+Then run code, for testbenches I changed file and module name of the data mem so that it doesn't load mine instead, i did not modify
+test bench other than that
+
+Everything else should just work
+Thank you for this quarter :)
